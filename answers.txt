@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Any field that deals with analysis of large datasets. One example could be the FinTech Industry.  
