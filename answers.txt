@@ -10,4 +10,6 @@ Answer: Any field that deals with analysis of large datasets. One example could 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging helps merging two different branches whereas Rebasing is rewriting the history of a branch by using commits of another branch.  
- 
+Q4: What are you looking forward to this semester?
+
+Answer: Building amazing projects!!
