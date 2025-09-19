@@ -6,4 +6,8 @@ Answer: To make it easier to collaborate with others. And its also nice to have 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Any field that deals with analysis of large datasets. One example could be the FinTech Industry.  
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging helps merging two different branches whereas Rebasing is rewriting the history of a branch by using commits of another branch.  
  
